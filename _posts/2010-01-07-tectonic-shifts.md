@@ -1,13 +1,9 @@
 ---
-id: 107
 title: 'Tectonic shifts'
 date: '2010-01-07T15:01:44+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=107'
-permalink: '/?p=107'
-original_post_id:
-    - '107'
+permalink: '/tectonic-shifts/'
 categories:
     - technology
 ---

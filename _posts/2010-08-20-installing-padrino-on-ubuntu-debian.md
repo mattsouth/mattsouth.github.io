@@ -1,13 +1,9 @@
 ---
-id: 175
 title: 'Installing Padrino on Ubuntu / Debian'
 date: '2010-08-20T21:39:31+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=175'
-permalink: '/?p=175'
-original_post_id:
-    - '175'
+permalink: '/padrino-on-ubuntu/'
 categories:
     - software
 ---

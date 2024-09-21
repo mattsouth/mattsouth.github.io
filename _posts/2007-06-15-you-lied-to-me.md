@@ -1,13 +1,9 @@
 ---
-id: 256
 title: 'You lied to me when you said this was a program'
 date: '2007-06-15T08:57:30+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=7'
-permalink: '/?p=256'
-original_post_id:
-    - '7'
+permalink: '/you-lied-to-me/'
 categories:
     - software
 ---

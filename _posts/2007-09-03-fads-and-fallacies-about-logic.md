@@ -1,11 +1,9 @@
 ---
-id: 403
 title: 'Fads and fallacies about logic'
 date: '2007-09-03T19:51:33+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/2007/09/03/fads-and-fallacies-about-logic/'
-permalink: '/?p=403'
+permalink: '/fads-and-fallacies-about-logic/'
 categories:
     - research
 ---

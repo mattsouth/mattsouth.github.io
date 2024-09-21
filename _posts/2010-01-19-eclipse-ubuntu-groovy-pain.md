@@ -1,13 +1,9 @@
 ---
-id: 110
 title: 'Eclipse + Ubuntu + Groovy pain'
 date: '2010-01-19T15:17:06+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=110'
-permalink: '/?p=110'
-original_post_id:
-    - '110'
+permalink: '/eclipse-ubuntu-groovy/'
 categories:
     - software
 tags:

@@ -1,13 +1,9 @@
 ---
-id: 257
 title: 'Hackday London'
 date: '2007-06-17T22:23:37+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/2007/06/17/hackday-london/'
-permalink: '/?p=257'
-geo_public:
-    - '0'
+permalink: '/hackday-london/'
 categories:
     - software
 ---

@@ -1,13 +1,9 @@
 ---
-id: 45
 title: Siftables
 date: '2009-03-12T15:39:26+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=45'
-permalink: '/?p=45'
-original_post_id:
-    - '45'
+permalink: '/siftables/'
 categories:
     - technology
 ---

@@ -1,13 +1,9 @@
 ---
-id: 201
 title: 'Locating images within jars with Bash'
 date: '2011-07-13T15:27:21+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=201'
-permalink: '/?p=201'
-original_post_id:
-    - '201'
+permalink: '/locating-images-within-jars/'
 categories:
     - sysadmin
 ---

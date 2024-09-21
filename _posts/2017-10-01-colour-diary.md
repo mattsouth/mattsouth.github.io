@@ -1,15 +1,9 @@
 ---
-id: 421
 title: 'Colour Diary'
 date: '2017-10-01T10:06:19+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=421'
-permalink: '/?p=421'
-original_post_id:
-    - '421'
-geo_public:
-    - '0'
+permalink: '/colour-diary/'
 categories:
     - software
 ---

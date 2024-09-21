@@ -1,11 +1,9 @@
 ---
-id: 24
 title: 'ArgKit: An argumentation toolkit'
 date: '2008-01-24T15:33:30+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/2008/01/24/argkit-an-argumentation-toolkit/'
-permalink: '/?p=24'
+permalink: '/argkit/'
 categories:
     - software
 ---

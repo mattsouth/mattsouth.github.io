@@ -1,15 +1,9 @@
 ---
-id: 228
 title: 'Netbeans file type integration tutorial comments'
 date: '2011-11-30T15:43:58+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=228'
-permalink: '/?p=228'
-wp-syntax-cache-content:
-    - ''
-original_post_id:
-    - '228'
+permalink: '/netbeans-file-type-integration-tutorial-comments/'
 categories:
     - software
 tags:

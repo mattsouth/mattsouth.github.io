@@ -1,11 +1,9 @@
 ---
-id: 29
 title: news.ycombinator.com
 date: '2008-03-20T10:44:35+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/2008/03/20/newsycombinatorcom/'
-permalink: '/?p=29'
+permalink: '/hacker-news/'
 categories:
     - technology
 ---

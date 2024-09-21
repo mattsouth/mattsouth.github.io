@@ -1,13 +1,9 @@
 ---
-id: 402
 title: 'Concept of the day: cargo cults'
 date: '2007-08-01T16:19:05+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/2007/08/01/concept-of-the-day-cargo-cultists/'
-permalink: '/?p=402'
-original_post_id:
-    - '15'
+permalink: '/cargo-cults/'
 categories:
     - software
 ---

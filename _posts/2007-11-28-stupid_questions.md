@@ -1,11 +1,9 @@
 ---
-id: 405
 title: 'The importance of being willing to ask stupid questions'
 date: '2007-11-28T10:59:01+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/2007/11/28/stupid_questions/'
-permalink: '/?p=405'
+permalink: '/stupid-questions/'
 categories:
     - software
 ---

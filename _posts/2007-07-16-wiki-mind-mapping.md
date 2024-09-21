@@ -1,13 +1,9 @@
 ---
-id: 259
 title: 'Wiki mind mapping'
 date: '2007-07-16T09:47:22+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/2007/07/16/mind-mapping/'
-permalink: '/?p=259'
-original_post_id:
-    - '11'
+permalink: '/wiki-mind-mapping/'
 categories:
     - technology
 ---

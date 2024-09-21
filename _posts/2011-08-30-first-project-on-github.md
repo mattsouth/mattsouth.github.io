@@ -1,11 +1,9 @@
 ---
-id: 206
 title: 'First project on github'
 date: '2011-08-30T15:12:30+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=206'
-permalink: '/?p=206'
+permalink: '/first-github-project/'
 original_post_id:
     - '206'
 categories:

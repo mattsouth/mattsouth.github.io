@@ -1,11 +1,9 @@
 ---
-id: 30
 title: 'Codename raisin'
 date: '2008-03-20T10:05:37+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/2008/03/20/codename-raisin/'
-permalink: '/?p=30'
+permalink: '/codename-raisin/'
 categories:
     - technology
 ---

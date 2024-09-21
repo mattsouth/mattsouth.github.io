@@ -1,15 +1,9 @@
 ---
-id: 325
 title: Woodentrack
 date: '2013-07-17T20:34:14+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=325'
-permalink: '/?p=325'
-original_post_id:
-    - '325'
-geo_public:
-    - '0'
+permalink: '/woodentrack/'
 categories:
     - software
 ---

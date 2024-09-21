@@ -1,13 +1,9 @@
 ---
-id: 192
 title: 'Sinatra + Microsoft SQL server ??'
 date: '2010-09-21T12:45:24+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=192'
-permalink: '/?p=192'
-original_post_id:
-    - '192'
+permalink: '/sinatra-sql-server/'
 categories:
     - software
 ---

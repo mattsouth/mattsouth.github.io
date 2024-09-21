@@ -1,13 +1,9 @@
 ---
-id: 280
 title: 'Presentation smells'
 date: '2012-06-25T13:52:00+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=280'
-permalink: '/?p=280'
-original_post_id:
-    - '280'
+permalink: '/presentation-smells/'
 categories:
     - research
 ---

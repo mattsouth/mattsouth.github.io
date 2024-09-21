@@ -1,13 +1,9 @@
 ---
-id: 134
 title: 'Latex on Karmic Koala'
 date: '2010-02-01T12:10:27+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=134'
-permalink: '/?p=134'
-original_post_id:
-    - '134'
+permalink: '/latex-on-karmic-koala/'
 categories:
     - research
 ---

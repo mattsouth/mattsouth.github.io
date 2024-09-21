@@ -1,13 +1,9 @@
 ---
-id: 434
 title: 'Java status bar'
 date: '2007-06-12T10:42:27+00:00'
 author: matt
 layout: post
-guid: 'https://halfdecentnet.wordpress.com/2007/06/12/java-status-bar/'
-permalink: '/?p=434'
-original_post_id:
-    - '1'
+permalink: '/java-status-bar/'
 categories:
     - software
 ---

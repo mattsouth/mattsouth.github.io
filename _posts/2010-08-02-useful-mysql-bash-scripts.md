@@ -1,11 +1,9 @@
 ---
-id: 164
 title: 'Potentially useful mysql bash scripts'
 date: '2010-08-02T11:20:19+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=164'
-permalink: '/?p=164'
+permalink: '/mysql-bash-scripts/'
 original_post_id:
     - '164'
 categories:

@@ -1,13 +1,9 @@
 ---
-id: 72
 title: 'Scripting languages in Java &#8211; manipulating an EMF model'
 date: '2009-12-04T14:53:02+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=72'
-permalink: '/?p=72'
-original_post_id:
-    - '72'
+permalink: '/scripting-in-java/'
 categories:
     - software
 tags:

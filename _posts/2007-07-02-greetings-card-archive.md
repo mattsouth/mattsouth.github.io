@@ -1,11 +1,10 @@
 ---
-id: 258
 title: 'Greetings card archive'
 date: '2007-07-02T21:47:52+00:00'
 author: matt
 layout: post
 guid: 'http://halfdecent.net/2007/07/02/greetings-card-archive/'
-permalink: '/?p=258'
+permalink: '/greetings-card-archive/'
 categories:
     - idea
 ---

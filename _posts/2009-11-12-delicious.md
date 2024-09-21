@@ -1,13 +1,9 @@
 ---
-id: 67
 title: Delicious
 date: '2009-11-12T10:47:22+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/2009/11/12/delicious/'
-permalink: '/?p=67'
-original_post_id:
-    - '67'
+permalink: '/delicious/'
 categories:
     - technology
 ---

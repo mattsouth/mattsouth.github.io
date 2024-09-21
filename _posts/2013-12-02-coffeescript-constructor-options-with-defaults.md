@@ -1,13 +1,9 @@
 ---
-id: 364
 title: 'Coffeescript constructor options with defaults'
 date: '2013-12-02T12:05:52+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=364'
-permalink: '/?p=364'
-original_post_id:
-    - '364'
+permalink: '/coffeescript-constructor-options-with-default/'
 categories:
     - software
 ---

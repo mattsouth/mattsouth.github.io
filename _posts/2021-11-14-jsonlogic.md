@@ -1,13 +1,9 @@
 ---
-id: 1241
 title: JsonLogic
 date: '2021-11-14T22:08:00+00:00'
 author: matt
 layout: post
-guid: 'https://halfdecent.net/?p=1241'
-permalink: '/?p=1241'
-timeline_notification:
-    - '1638223736'
+permalink: '/json-logic/'
 categories:
     - software
 ---

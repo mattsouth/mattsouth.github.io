@@ -1,13 +1,9 @@
 ---
-id: 408
 title: 'Munin on Ubuntu'
 date: '2016-05-24T15:22:02+00:00'
 author: matt
 layout: post
-guid: 'http://halfdecent.net/?p=408'
-permalink: '/?p=408'
-original_post_id:
-    - '408'
+permalink: '/installing-munin-on-ubuntu/'
 categories:
     - sysadmin
 ---
